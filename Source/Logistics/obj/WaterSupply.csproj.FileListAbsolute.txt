@@ -1,0 +1,10 @@
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\bin\Debug\WaterSupply.exe
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\bin\Debug\WaterSupply.pdb
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.Properties.Resources.resources
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.csproj.GenerateResource.Cache
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.exe
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.pdb
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.MainForm.resources
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.RandomTree.resources
+E:\WORK\2014\供水\WaterSupply\WaterSupply\WaterSupply\obj\Debug\WaterSupply.ShowChart.resources
